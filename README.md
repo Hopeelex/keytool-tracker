@@ -1,6 +1,6 @@
-# 🛠️ KeyTool Tracker 
+# 🛠️ KeyTool Tracker
 
-Dashboard interactivo en tiempo real para el control, monitoreo y gestión automatizada de inventario de herramientas mediante Inteligencia Artificial. Desarrollado para el **Entropy Hack** de Key Institute.
+Dashboard interactivo en tiempo real para el control, monitoreo y gestión automatizada de inventario de herramientas mediante Inteligencia Artificial.
 
 ## 🚀 Características Principales
 
